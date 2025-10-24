@@ -1,6 +1,6 @@
 # RAG System for Financial Annual Reports
 
-A simple, educational RAG (Retrieval-Augmented Generation) system that allows you to ask questions about financial annual reports using OpenAI embeddings, FAISS vector storage, and a Streamlit web interface.
+A simple RAG (Retrieval-Augmented Generation) system that allows you to ask questions about financial annual reports using OpenAI embeddings, FAISS vector storage, and a Streamlit web interface.
 
 ## 🚀 Quick Start
 
